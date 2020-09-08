@@ -1,12 +1,11 @@
 {
-  "name": "personalportfolio",
-  "version": "0.1.0",
+  "name": "react-portfolio",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-ga": "^3.1.2",
     "react-scripts": "3.4.3"
   },
   "scripts": {
@@ -26,5 +25,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leif-W/react-portfolio.git"
+  },
+  "author": "Leif Westerlind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leif-W/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/Leif-W/react-portfolio#readme"
 }
